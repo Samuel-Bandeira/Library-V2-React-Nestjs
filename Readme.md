@@ -1,4 +1,4 @@
-# Library Project
+# Library Project(PROJECT IN PROGRESS)
 ## This project is a improved version of an old library project, this time using ReactJS and NestJS which improves drastically the workflow! In this project I choose to clone the famous web library called OpenLibrary, the layout is basically the same and it was completely made in MUI V5, the newest version of the famous CSS framework!
 
 # Images of the project: 
